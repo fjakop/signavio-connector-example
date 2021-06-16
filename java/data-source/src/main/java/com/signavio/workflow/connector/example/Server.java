@@ -20,7 +20,7 @@ public class Server {
   /**
    * Defines the port the embedded HTTP server will bind to.
    */
-  private static final int PORT = 5000;
+  private static final int PORT = 36872;
   private static CustomerService customerService = new CustomerService();
   private static String descriptor;
 
